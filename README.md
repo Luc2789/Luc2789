@@ -1,8 +1,8 @@
 #  👋 Hi, I'm @Luc2789
 
 - 👀 I'm interested in Python and JavaScript
-- 🌱 I'm currently learning JavaScript
-- 💞️ I'm looking to collaborate on JavaScript projects
+- 🌱 I'm currently learning JavaScript and C
+- 💞️ I'm looking to collaborate on JavaScript, Python and C projects
 - 📫 How to contact me luciano.santos.nasciment@gmail.com
   
  ##  📈 Estatística
