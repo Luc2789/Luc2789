@@ -1,9 +1,7 @@
-#  👋 Hi, I'm @Luc2789
+#  👋 Hello, Word! Meu nome é luciano
 
-- 👀 I'm interested in Python and JavaScript
-- 🌱 I'm currently learning JavaScript and C
-- 💞️ I'm looking to collaborate on JavaScript, Python and C projects
-- 📫 How to contact me luciano.santos.nasciment@gmail.com
+- 🌱 Eu estou aprendendo Python, C e IoT
+- 📫 E-mail: luciano.santos.nasciment@gmail.com
   
  ##  📈 Estatística
  <p>
